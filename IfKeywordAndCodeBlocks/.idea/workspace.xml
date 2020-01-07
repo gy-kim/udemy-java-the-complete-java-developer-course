@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="773eaedb-ff8d-44ec-aa1e-cdfcd306e53c" name="Default Changelist" comment="" />
+    <list default="true" id="773eaedb-ff8d-44ec-aa1e-cdfcd306e53c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/gykim/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/gykim/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1W3x3VwNDgDNtRAkN0teaeVQLl3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -56,11 +64,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578391880574</updated>
-      <workItem from="1578391882333" duration="10000" />
+      <workItem from="1578391882333" duration="707000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1578392625330">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.23.1920.1057/3200.-251.1080.1897@1280.23.1920.1057" timestamp="1578392625330" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1578392625329">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1280.777/1280.23.1920.1057/3200.-251.1080.1897@1280.23.1920.1057" timestamp="1578392625329" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1578392625328">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1280.777/1280.23.1920.1057/3200.-251.1080.1897@1280.23.1920.1057" timestamp="1578392625328" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1578392625330">
+      <screen x="1280" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1280.777/1280.23.1920.1057/3200.-251.1080.1897@1280.23.1920.1057" timestamp="1578392625330" />
   </component>
 </project>
